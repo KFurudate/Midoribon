@@ -1,5 +1,5 @@
 # Midoribon
 
-<a target="_blank"  href="https://www.amazon.co.jp/gp/product/400006973X/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=400006973X&linkCode=as2&tag=reaesjapan05-22&linkId=c9e942450233d3efdaf5ee3ebf770831"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=JP&ASIN=400006973X&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=reaesjapan05-22" ></a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=reaesjapan05-22&l=am2&o=9&a=400006973X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
 <a target="_blank" href="https://www.amazon.co.jp/gp/product/400006973X/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=400006973X&linkCode=as2&tag=reaesjapan05-22&linkId=193d5bb35db89dc42f382607f2b59a4c">データ解析のための統計モデリング入門――一般化線形モデル・階層ベイズモデル・MCMC (確率と情報の科学)</a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=reaesjapan05-22&l=am2&o=9&a=400006973X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+https://kuboweb.github.io/-kubo/ce/IwanamiBook.html
