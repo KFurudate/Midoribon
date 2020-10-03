@@ -59,3 +59,5 @@ https://kuboweb.github.io/-kubo/ce/IwanamiBook.html
   統計モデルをデータに基づいて比較するための相対的な評価量のこと。
   AIC = -2* 最大対数尤度 + 2*パラメーター数（αの次元）
   
+  reference: [AICとMDLとBIC 赤池 弘次](https://www.orsj.or.jp/~archive/pdf/bul/Vol.41_07_375.pdf)
+  
