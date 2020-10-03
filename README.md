@@ -55,3 +55,7 @@ https://kuboweb.github.io/-kubo/ce/IwanamiBook.html
 ## 第4章 GLMのモデル選択 -AICとモデルの予測の良さ-
 
 - AICとは、
+  
+  統計モデルをデータに基づいて比較するための相対的な評価量のこと。
+  AIC = -2* 最大対数尤度 + 2*パラメーター数（αの次元）
+  
