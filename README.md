@@ -44,4 +44,5 @@ https://kuboweb.github.io/-kubo/ce/IwanamiBook.html
 ## 第3章   一般線形モデル(GLM) -ポアソン回帰-
 
 - 一般線形モデル(Generalized linear model:GLM)とは、
+
   誤差の推定量をある分布と仮定すると、足し算の数式であらわされるモデル（線形モデル）
