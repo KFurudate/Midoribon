@@ -70,4 +70,7 @@ https://kuboweb.github.io/-kubo/ce/IwanamiBook.html
   結果が2値であるベルヌーイの施行を独立にn回行った（上限がある）ときの確率変数をあらわす離散確率分布。
 
 ### 第7章 一般線形混合モデル(GLMM) -個体差のモデリング-
+- 一般化線形混合モデル(Generalized Linear Mixed Model：GLMM）とは、
+
+  観察されなかった個体差を組み込んだGLM
 
