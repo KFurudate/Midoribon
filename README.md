@@ -74,3 +74,8 @@ https://kuboweb.github.io/-kubo/ce/IwanamiBook.html
 
   観察されなかった個体差を組み込んだGLM
 
+- 過分散とは、
+
+  期待される分散よりも実際の分散が大きく、データのばらつきが大き過ぎる
+  
+
