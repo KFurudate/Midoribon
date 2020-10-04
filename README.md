@@ -72,7 +72,7 @@ https://kuboweb.github.io/-kubo/ce/IwanamiBook.html
 ### 第7章 一般線形混合モデル(GLMM) -個体差のモデリング-
 - 一般化線形混合モデル(Generalized Linear Mixed Model：GLMM）とは、
 
-  観察されなかった個体差を組み込んだGLM
+  観察されなかった個体差や場所差の効果を組み込んだGLM
 
 - 過分散とは、
 
