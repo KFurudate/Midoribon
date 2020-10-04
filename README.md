@@ -50,7 +50,7 @@ https://kuboweb.github.io/-kubo/ce/IwanamiBook.html
 
 - 一般線形モデル(Generalized linear model:GLM)とは、
 
-  誤差の推定量をある分布と仮定すると、足し算の数式であらわされるモデル（線形モデル）。
+  確率分布・リンク関数・線形予測子を指定し、足し算の数式であらわされるモデル（線形モデル）。
   
 ## 第4章 GLMのモデル選択 -AICとモデルの予測の良さ-
 
