@@ -82,4 +82,7 @@ https://kuboweb.github.io/-kubo/ce/IwanamiBook.html
 - MCMCの目的とは、
 
   定常分布からのランダムサンプリング。与えられたデータとモデルのもとでのパラメーターの確率分布が得られる。
+  
+### 第9章 GLMのベイズモデル化と事後分布の推定
+
 
