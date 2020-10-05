@@ -18,7 +18,7 @@ https://kuboweb.github.io/-kubo/ce/IwanamiBook.html
 - [第7章   一般線形混合モデル(GLMM) -個体差のモデリング-](/chap7.ipynb)
 - [第8章   マルコフ連鎖モンテカルロ(MCMC)法とベイズ統計モデル](/chap8.ipynb)
 - [第9章   GLMのベイズモデル化と事後分布の推定](/chap9.ipynb)
-- 第10章  階層ベイズモデル - GLMMのベイズモデル化ー
+- [第10章  階層ベイズモデル - GLMMのベイズモデル化ー](/chap10.ipynb)
 - 第11章  空間構造のある階層ベイズモデル
 
 ### 第1章 データを理解するために統計モデルを作る
