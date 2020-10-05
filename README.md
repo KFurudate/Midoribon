@@ -90,5 +90,6 @@ https://kuboweb.github.io/-kubo/ce/IwanamiBook.html
 
 ### 第10章  階層ベイズモデル - GLMMのベイズモデル化ー
 - 階層事前分布とは、
+
   事前分布のパラメーターのさらに事前分布を設定すること。
 
