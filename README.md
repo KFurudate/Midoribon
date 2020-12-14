@@ -4,6 +4,9 @@
 
 <img width="157" alt="Screen Shot 2020-10-02 at 23 49 26" src="https://user-images.githubusercontent.com/50528980/94983619-298f4880-050a-11eb-8359-4144bed5b4cd.png">
 
+書籍やWebサイトを参考にPyMC3の練習をしました。
+大変勉強になりました。ありがとうございます！！
+
 久保拓弥先生(著者)のページ
 
 https://kuboweb.github.io/-kubo/ce/IwanamiBook.html
