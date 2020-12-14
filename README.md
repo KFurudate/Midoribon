@@ -7,11 +7,9 @@
 書籍と関連サイトを参考にPyMC3の練習をしました。
 大変勉強になりました。ありがとうございました！！
 
-久保拓弥先生(著者)のページ
-https://kuboweb.github.io/-kubo/ce/IwanamiBook.html
+[久保拓弥先生(著者)のページ](https://kuboweb.github.io/-kubo/ce/IwanamiBook.html)
 
-階層ベイズ＆MCMC講義 （久保拓弥先生）のYouTube
-https://www.youtube.com/watch?v=wO8jd0z5YRQ
+[階層ベイズ＆MCMC講義 （久保拓弥先生）のYouTube講義（統計数理研究所）](https://www.youtube.com/watch?v=wO8jd0z5YRQ)
 
 ### 目次
 - 第1章   データを理解するために統計モデルを作る
